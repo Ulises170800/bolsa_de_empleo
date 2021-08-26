@@ -1,0 +1,19 @@
+/* !important es sobre escribir otro estilo por si ya esta uno */
+
+/* menu-gb esto es una clase */
+.menu-gb{
+    background-color: salmon !important;
+}
+
+.menu{
+    color: crimson !important;
+}
+
+.sobreMi{
+    background: rgba(226, 60, 9, 0.527);
+    color: #fff !important;
+}
+
+.sobreMi p{
+    text-align: justify;
+}
